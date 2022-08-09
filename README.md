@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @medso0018
-- 👀 I’m interested in learning Data Science and Machine Learning
+- 👀 I’m interested in learning Data Science and Artificial Intelligence
 - 📫 How to reach me: m.sahraoui.ouardighi@gmail.com
 
 <!---
